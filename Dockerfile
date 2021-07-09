@@ -1,5 +1,5 @@
 #base image
-FROM node:alpine:latest
+FROM node:alpine
 
 #install dependancies
 WORKDIR /usr/helloapp
